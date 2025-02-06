@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|d:\\mkq\\study\\ltmt\\hdh\\nhom_11_63ktpm1_windown_api\\windown_api\\windowsformsapp1\\w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\windowsformsapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\windowsformsapp1\\w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\w.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\windowsformsapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\windowsformsapp1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\windowsformsapp1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB42E49-D1A0-4C64-B361-A567F136E74E}|WindowsFormsApp1\\Windows_API.csproj|solutionrelative:windowsformsapp1\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\TaskManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TaskManager.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\TaskManager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\TaskManager.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAA2wAABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:17:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "W.cs [Design]",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\W.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\W.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\W.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\W.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:57:58.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "W.cs",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\W.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\W.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\W.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\W.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:57:58.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileManager.cs [Design]",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\FileManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FileManager.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\FileManager.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\FileManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:57:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\FileManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FileManager.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\FileManager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FileManager.cs",
+              "ViewState": "AQIAANACAAAAAAAAAAAiwB4DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:57:58.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs [Design]",
+              "DocumentMoniker": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\TaskManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\TaskManager.cs",
+              "ToolTip": "D:\\MKQ\\Study\\LTMT\\HDH\\Nhom_11_63KTPM1_Windown_API\\Windown_API\\WindowsFormsApp1\\TaskManager.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\TaskManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:57:58.739Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
